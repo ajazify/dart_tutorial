@@ -3,13 +3,16 @@
 <h3 align="left"> Let's learn some basics to advance level dart language!</h3>
 <div>   </div>
 
-<h2 align="left">Datatypes and Variable</h2>
-<h2 align="left">Classes</h2>
-<h2 align="left">Collection</h2>
-<h2 align="left">Fuction</h2>
-<h2 align="left">Static Memmbers</h2>
-<h2 align="left">Inheritance</h2>
-<h2 align="left">Interface</h2>
-<h2 align="left">Abstraction</h2>
-<h2 align="left">Encapsulation</h2>
-<h2 align="left">Mixin</h2>
+<h2 align="left">Datatypes and Variable - basic </h2>
+<h2 align="left">Classes - basic</h2>
+<h2 align="left">Collection - basic</h2>
+<h2 align="left">Fuction - basic</h2>
+<h2 align="left">Static Memmbers - basic</h2>
+<h2 align="left">Inheritance - basic</h2>
+<h2 align="left">Interface - basic</h2>
+<h2 align="left">Abstraction - basic</h2>
+<h2 align="left">Encapsulation - basic</h2>
+<h2 align="left">Mixin - intermediate </h2>
+<h2 align="left">Named_Constructor - intermediate </h2>
+<h2 align="left">Enum - intermediate </h2>
+<h2 align="left">Enum With Extention - intermediate </h2>
